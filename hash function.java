@@ -3,7 +3,6 @@ import java.security.NoSuchAlgorithmException;
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.security.*;
-import java.lang.*;
 public class Digest
 {
 
